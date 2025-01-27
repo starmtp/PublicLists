@@ -20,7 +20,7 @@ paste.drhack.net
 justpaste.it
 cracked.io
 lesma.eu
-www.mashupstack.com
+mashupstack.com
 blueprintue.com
 ctxt.io
 paste.centos.org
