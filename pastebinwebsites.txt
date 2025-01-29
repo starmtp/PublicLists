@@ -1,3 +1,17 @@
+anonfiles.com
+ddns.net
+ghostbin.co
+glitch.me
+gofile.io
+hastebin.com
+mediafire.com
+mega.co.nz
+mega.nz
+onrender.com
+pages.dev
+paste.ee
+pastebin.com
+pastebin.pl
 chopapp.com
 snipt.org
 codepad.org
